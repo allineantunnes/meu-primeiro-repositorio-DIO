@@ -1,2 +1,6 @@
-# Meu Primeiro Repositorio DIO
+# Meu Primeiro Repositório DIO
 Criando meu primeiro repositório e realizando autenticações.
+
+1. Primeira autenticação via: Token de acesso Pessoal
+
+   
