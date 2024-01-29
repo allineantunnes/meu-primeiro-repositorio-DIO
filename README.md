@@ -1,2 +1,2 @@
-# meu-primeiro-repositorio-DIO
-Repositório criado como teste.
+# Meu Primeiro Repositorio DIO
+Criando meu primeiro repositório e realizando autenticações.
